@@ -1,0 +1,14 @@
+[0905/224504.749:ERROR:settings.cc(325)] Settings version is not 1
+[0905/224645.474:ERROR:file_io.cc(90)] ReadExactly: expected 152, observed 40
+[0905/224924.745:ERROR:settings.cc(325)] Settings version is not 1
+[0905/225120.068:ERROR:settings.cc(325)] Settings version is not 1
+[0905/225247.070:ERROR:file_io.cc(90)] ReadExactly: expected 152, observed 40
+[0905/225318.389:ERROR:settings.cc(325)] Settings version is not 1
+[0905/225945.580:ERROR:file_io.cc(90)] ReadExactly: expected 152, observed 40
+[0905/230147.644:ERROR:settings.cc(325)] Settings version is not 1
+[0905/230335.580:ERROR:file_io.cc(90)] ReadExactly: expected 152, observed 40
+[0905/230431.030:ERROR:settings.cc(325)] Settings version is not 1
+[0905/230551.727:ERROR:file_io.cc(90)] ReadExactly: expected 152, observed 40
+[0905/230629.800:ERROR:settings.cc(325)] Settings version is not 1
+[0906/094211.897:ERROR:settings.cc(325)] Settings version is not 1
+[0906/094233.290:ERROR:file_io.cc(90)] ReadExactly: expected 152, observed 40
